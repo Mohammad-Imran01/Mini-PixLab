@@ -10,4 +10,4 @@
 
  Just add your libraries to your environment variables then configure the .pro file according to your build directories, and thats all.
 
- [https://github.com/Mohammad-Imran01/Mini-PixLab/blob/main/screenshots/Mini%20PixMap%20SS.png]
+ [Example SS](https://github.com/Mohammad-Imran01/Mini-PixLab/blob/main/screenshots/Mini%20PixMap%20SS.png)
