@@ -80,5 +80,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 For any questions or support, please contact:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Issues**: [Create an issue](https://github.com/Mohammad-Imran01/Mini-PixLab/issues)
+- **Email**: [your-email@example.com](mailto:imranmbhd2412@gmail.com)
